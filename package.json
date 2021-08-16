@@ -1,0 +1,11 @@
+{
+  "name": "@d.reitzner/vite-pnpapi-workaround",
+  "version": "1.0.1",
+  "description": "workaround for Vite <=2.4.4, to allow symlinks",
+  "main": "index.cjs",
+  "scripts": {
+    "test": "echo \"These are not the tests you're looking for.\" && exit 1"
+  },
+  "author": "Domenik Reitzner",
+  "license": "ISC"
+}
